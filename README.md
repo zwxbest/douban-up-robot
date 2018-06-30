@@ -1,2 +1,3 @@
-# douban-up-robot
-豆瓣自动顶帖，使用python3，识别验证码
+# 使用方法
+
+http://nizouba.com/2018/06/29/%E4%BD%BF%E7%94%A8python%E8%B1%86%E7%93%A3%E8%87%AA%E5%8A%A8%E9%A1%B6%E8%B4%B4%E4%BB%A5%E5%8F%8A%E8%AF%86%E5%88%AB%E9%AA%8C%E8%AF%81%E7%A0%81/
